@@ -1,9 +1,9 @@
-# colorToRGB - module pour Node.js
+# colorToRGB - middleware pour Node.js
 colorToRGB, permet de convertir une couleur hexadécimal en rgb
 
 
 ## installation
-Placer le fichier colorToRGB.js dans le dossier modules
+Placer le fichier colorToRGB.js dans le dossier middlewares
 
 
 ## utilisation
